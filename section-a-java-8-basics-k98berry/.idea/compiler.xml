@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="section-a-java-8-basics-k98berry.main" target="11" />
-      <module name="section-a-java-8-basics-k98berry.test" target="11" />
-    </bytecodeTargetLevel>
-  </component>
-</project>
